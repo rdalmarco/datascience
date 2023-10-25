@@ -9,7 +9,9 @@
 * Distribuições Discretas e Contínuas
 * Intervalo de Confiança
 * Teorema Central do Limite
-* Linguagem R e Python
-* Big Data e Spark
+* Linguagem R 
+* Linguagem Python (Pandas)
+* Big Data
+* Spark
 
 ## As anotações sobre os conceitos citados acimas estao se encontram na aba Wiki
