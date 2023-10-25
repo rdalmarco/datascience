@@ -11,4 +11,4 @@
 * Teorema Central do Limite
 * Linguagem R e Python
 
-#As anotações sobre os conceitos citados acimas estao se encontram na aba Wiki
+## As anotações sobre os conceitos citados acimas estao se encontram na aba Wiki
