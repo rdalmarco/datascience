@@ -10,5 +10,6 @@
 * Intervalo de Confiança
 * Teorema Central do Limite
 * Linguagem R e Python
+* Big Data e Spark
 
 ## As anotações sobre os conceitos citados acimas estao se encontram na aba Wiki
