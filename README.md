@@ -4,9 +4,9 @@
 
 ## Assuntos abordados:
 
-** Estatística
-** Gráficos de apresentação estatísticas
-** Distribuições Discretas e Contínuas
-** Intervalo de Confiança
-** Teorema Central do Limite
-** Linguagem R e Python
+* Estatística
+* Gráficos de apresentação estatísticas
+* Distribuições Discretas e Contínuas
+* Intervalo de Confiança
+* Teorema Central do Limite
+* Linguagem R e Python
